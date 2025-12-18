@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "HT16K33A")(type "KiCad")(uri "${KIPRJMOD}/symbols/HT16K33A-28SSOP.kicad_sym")(options "")(descr ""))
   (lib (name "RP2040-new")(type "KiCad")(uri "${KIPRJMOD}/symbols/RP2040.kicad_sym")(options "")(descr ""))
+  (lib (name "ABM8-272-T3")(type "KiCad")(uri "${KIPRJMOD}/symbols/ABM8-272-T3.kicad_sym")(options "")(descr ""))
 )
